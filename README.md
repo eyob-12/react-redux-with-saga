@@ -12,10 +12,11 @@ Clone the repository:
 git clone https://github.com/your-username/cat-gallery-app.git
 
 Navigate to the project directory:
+
 cd rtk-with-saga
-
 Install dependencies:
-yarn 
 
+yarn 
 Start the development server:
+
 yarn start
